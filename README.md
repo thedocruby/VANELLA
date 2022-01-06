@@ -1,3 +1,5 @@
+### This project is on hold indefinitely
+
 # VANELLA Shaders
 Vanilla-Accurate Natural Environment Lighting in a Lightweight Arrangement. 
 
